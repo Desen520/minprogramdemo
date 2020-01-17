@@ -3,5 +3,8 @@
   "navigationBarTextStyle": "black",
   "navigationBarTitleText": "首页",
   "backgroundColor": "#eb4450",
-  "backgroundTextStyle": "light"
+  "backgroundTextStyle": "light",
+  "usingComponents": {
+  "my-header":"/components/myherads/myherads"
+  }
 }

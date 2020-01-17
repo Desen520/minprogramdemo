@@ -1,0 +1,17 @@
+.sousuo{
+  background-color:#eb4450;
+  width: 750rpx;
+  height: 100rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.weui-input{
+  width: 700rpx;
+  height: 75rpx;
+  border-radius: 5rpx;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

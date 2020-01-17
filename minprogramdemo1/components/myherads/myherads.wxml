@@ -1,0 +1,8 @@
+<!-- <view class="inner">
+  {{innerText}}
+    <slot></slot>
+</view> -->
+<view class="sousuo">
+
+<view class="weui-input" >{{innerText}}</view>
+</view>
